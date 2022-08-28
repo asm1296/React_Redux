@@ -1,0 +1,4 @@
+export const PAY_HOMELOAN = 'PAY_HOMELOAN';
+export const TAKE_HOMELOAN = 'TAKE_HOMELOAN';
+export const PAY_CARLOAN = 'PAY_CARLOAN';
+export const TAKE_CARLOAN = 'TAKE_CARLOAN';
